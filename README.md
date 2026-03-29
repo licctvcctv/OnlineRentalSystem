@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1Ka4y1y7cG
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的网上租赁系统，分为管理后台和用户网页端，可以给管理员、普通用户角色使用，包括商家管理、商品分类、商品信息、发货订单、租赁订单、信誉值管理模块和系统基础模块，项目编号T050。
 
